@@ -1,0 +1,8 @@
+.c img {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.c .container-item {
+	width: 30%;
+}

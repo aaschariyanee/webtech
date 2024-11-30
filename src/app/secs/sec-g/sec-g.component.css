@@ -1,0 +1,26 @@
+.g section {
+    height: 200vh;
+}
+
+.g .text-3 {
+    margin: 2vw auto;
+}
+
+.g img {
+    max-width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.g .container-item {
+    width: 30%;
+}
+
+.g .chatroom {
+    width: 100%;
+    max-width: 1500px;
+    height: 500px;
+    margin: 2vw auto;
+    background-color: var(--white);
+    border: 0.1vw dashed var(--black);
+}
